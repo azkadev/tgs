@@ -6,6 +6,16 @@ Telegram animation sticker on flutter# tgs
 
 ![](https://github.com/azkadev/tgs/raw/main/screenshots/video.webp)
 
+
+## Install package
+
+```bash
+flutter pub add tgs
+```
+
+### Quickstart
+
+
 ```dart
 import 'package:flutter/material.dart';
 import "package:tgs/tgs.dart";
