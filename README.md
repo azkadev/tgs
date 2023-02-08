@@ -2,6 +2,10 @@
 
 Telegram animation sticker on flutter# tgs
 
+## Screenshot
+
+![](https://github.com/azkadev/tgs/raw/main/screenshots/Screenshot%20from%202023-02-08%2010-53-00.png)
+
 ```dart
 import 'package:flutter/material.dart';
 import "package:tgs/tgs.dart";
